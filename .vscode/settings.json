@@ -1,0 +1,11 @@
+{
+  "editor.fontWeight": true,
+  "editor.fontLigatures": null,
+  "editor.cursorBlinking": "expand",
+  "terminal.integrated.automationShell.linux": "",
+  "emmet.showSuggestionsAsSnippets": true,
+"emmet.triggerExpansionOnTab": true,
+"workbench.colorTheme": "Default Dark+",
+"workbench.preferredDarkColorTheme": "Visual Studio Dark",
+"workbench.preferredLightColorTheme": "Visual Studio Dark"
+}
